@@ -7,3 +7,4 @@ You can download it here: [Kaggle Dataset Link]([https://www.kaggle.com/c/house-
 
 After downloading, place `train.csv` (and `test.csv` if needed) into the `data/` folder in this repository:
 
+[Click here to view the Jupyter Notebook] (https://github.com/amberchu0929/House-Price-Prediction/blob/main/HousePricePrediction.ipynb)
